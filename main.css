@@ -1,19 +1,26 @@
-
+.banner {
+  background-color: darkcyan;
+  text-align: right;
+  padding: 10px;
+}
 
 h1 {
   font-size: 40px;
-  font-family: Arial
+  font-family: Arial;
+  color: rgb(9, 1, 1);
+  /* Optional: makes text visible on dark background */
 }
+
 h2 {
   font-size: 25px;
-  font-family: Arial
+  font-family: Arial;
 }
+
 h3 {
-  font-family: Arial
+  font-family: Arial;
 }
+
 p {
   font-size: 14px;
-  font-family: Arial
+  font-family: Arial;
 }
-
-
